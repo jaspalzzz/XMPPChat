@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">XmppDemo</string>
+
+    //Chat Strings
+    <string name="TRUE">TRUE</string>
+    <string name="FALSE">FALSE</string>
+    <string name="send">SEND</string>
+    <string name="sent">SENT</string>
+    <string name="dilever">DILEVER</string>
+</resources>
